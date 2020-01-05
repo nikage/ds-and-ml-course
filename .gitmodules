@@ -1,0 +1,3 @@
+[submodule "task7/ds-ml-course"]
+	path = task7/ds-ml-course
+	url = git@github.com:hpylieva/ds-ml-course.git
